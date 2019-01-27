@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------------------------------------------
-// Name: Varun Jani
+// author @ Varun Jani
 // 
 // Description: This program asks us to create or implement four files (charstack, doublestack, charlist, doublelist) 
 // and then convert infix to postfix and then evaluate the value of the postfix expression. 
