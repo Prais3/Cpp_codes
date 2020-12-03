@@ -1,12 +1,11 @@
 # Nqueen
 
-//---------------------------------------------------------------------------------------------------------------
-// author @ Varun Jani
-//
-// Description: This program reads the chessboard size and queen locations from the input file
-// and prints a chessboard using the location of the queens. Then the other function/s check the
-// safety of the queen in that location and check if the nqueen problem is solved or not.
-//---------------------------------------------------------------------------------------------------------------
+author @ Varun Jani
+
+Description: This program reads the chessboard size and queen locations from the input file
+and prints a chessboard using the location of the queens. Then the other function/s check the
+safety of the queen in that location and check if the nqueen problem is solved or not.
+
 
 This program can only be run on a GNU compiler (Terminal) on Linux or it can be run on a GNU supporting IDE (Clion) on Windows
 
