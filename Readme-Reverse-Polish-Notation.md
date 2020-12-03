@@ -1,12 +1,11 @@
 # Cpp_codes
 
-//---------------------------------------------------------------------------------------------------------------
-// author @ Varun Jani
-//
-// Description: This program asks us to create or implement four files (charstack, doublestack, charlist, doublelist) 
-// and then convert infix to postfix and then evaluate the value of the postfix expression. 
-// Once all the test cases are passed it will show congratulations, all the test cases are passed
-//---------------------------------------------------------------------------------------------------------------
+author @ Varun Jani
+
+Description: This program asks us to create or implement four files (charstack, doublestack, charlist, doublelist) 
+and then convert infix to postfix and then evaluate the value of the postfix expression. 
+Once all the test cases are passed it will show congratulations, all the test cases are passed
+
 
 This program has to be compiled using all the files listed below and can be compiled on a terminal on Linux or a GNU supporting IDE on Windows
 
